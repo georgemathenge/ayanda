@@ -28,16 +28,16 @@ define('AUTOMATIC_UPDATER_DISABLED', true);
 
  // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'database_name_here' );
+define( 'DB_NAME', 'dbGmwyRKm5xrZnd3qW6E5kRg' );
 
 /** Database username */
-define( 'DB_USER', 'username_here' );
+define( 'DB_USER', '3b2074b07c5080007b6f5ed56147' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'password_here' );
+define( 'DB_PASSWORD', '06943b20-74b0-7dbc-8000-26cc954bf4e4' );
 
 /** Database hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'db.fr-pari1.bengt.wasmernet.com' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
