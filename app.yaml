@@ -2,34 +2,7 @@ name: ayanda
 owner: georgemathenge
 package: .
 capabilities:
-  instaboot:
-  
-    requests:
-    - path: /
-      headers:
-      - name: Accept
-        value: text/html
-      - name: Accept-Language
-        value: en-US
-    - path: /
-      headers:
-      - name: Accept
-        value: text/html
-      - name: Accept-Language
-        value: en-US
-    - path: /
-      headers:
-      - name: Accept
-        value: text/html
-      - name: Accept-Language
-        value: en-US
-    - path: /
-      headers:
-      - name: Accept
-        value: text/html
-      - name: Accept-Language
-        value: en-US
-    max_age: 59m
+
   database:
     engine: mysql
 volumes:
