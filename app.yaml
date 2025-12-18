@@ -3,7 +3,7 @@ owner: georgemathenge
 package: .
 capabilities:
   instaboot:
-    mode: null
+  
     requests:
     - path: /
       headers:
